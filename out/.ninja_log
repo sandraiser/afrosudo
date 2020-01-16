@@ -1,0 +1,6 @@
+# ninja log v5
+0	3	1562360299	build.ninja	10b2acac2749b134
+0	55	1562360299	obj/afro_sudo.afro_sudo.o	5db117386d87e4c7
+55	85	1562360299	afro_sudo	27dd3de28e845074
+0	29	1562361954	obj/afro_sudo.afro_sudo.o	5db117386d87e4c7
+29	54	1562361954	afro_sudo	27dd3de28e845074

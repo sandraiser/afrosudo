@@ -1,0 +1,10 @@
+executable("afro_sudo") {
+  sources = [
+    "afro_sudo.c",
+  ]
+#  deps = [
+#    ":hello_shared",
+#    ":hello_static",
+#  ]
+}
+
